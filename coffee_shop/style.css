@@ -9,13 +9,18 @@
     font-family: 'Times New Roman', Times, serif, sans-serif;
     font-style: oblique;
     font-weight: bold;
-    margin: 20px auto;
+    margin: auto;
+}
+
+.hori {
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 .one,
 .three {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .four {
